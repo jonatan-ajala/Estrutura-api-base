@@ -1,2 +1,2 @@
 # Estrutura-api-base
-Criação da estrutura inicial da API
+Criação da estrutura inicial da API Entity Framework
